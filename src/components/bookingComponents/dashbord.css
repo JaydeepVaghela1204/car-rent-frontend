@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+.title {
+    font-family: 'Great Vibes', cursive;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.bodydashbord {
+    background-image: url(https://www.hmablogs.com/wp-content/uploads/2021/09/background.jpg);
+    /* height: 100%; */
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.carddata {
+    color: white !important;
+}
+
+.img  {
+    border-radius: 0%;
+}
+
+.detail  {
+    font-family: 'Great Vibes', cursive;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+}
+
+.subtitle{
+    font-size:10px;
+}
+
+.subdetail  {
+    font-size: 13px;
+}
+
+.booking_title  {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 5px 5px #746e6e;
+}

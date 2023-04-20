@@ -1,0 +1,12 @@
+
+.card_component :hover {
+    /* border-radius: 0;
+        width: 220;
+        height: 270;
+        background-color: "rgba(41, 39, 39, 0.3)";
+        box-shadow: "0 5px 30px white"; */
+        /* color: "white"; */
+        padding: 0;
+        margin-bottom: 10px;
+        justify-content: space-between;
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+
+.cars-div-white {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 3vh;
+    margin-top: 2vh;
+    box-shadow: 3px 1px 5px 1px lightgray;
+}
+
+.cars-div-white h3 {
+    margin-bottom: 3vh;
+}
+
+.listCar_title  {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    text-shadow: 4px 4px #94939391;
+}

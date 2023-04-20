@@ -1,0 +1,13 @@
+.footer {
+    margin-top: 10px;
+    background-color: rgba(41, 39, 39, 0.3);
+    box-shadow: 0 5px 30px black;
+    /* background-color: #343a40; */
+    width: 100%;
+    color: white;
+    padding: 3vh;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
